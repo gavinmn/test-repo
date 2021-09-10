@@ -1,3 +1,3 @@
 🚧 TEST REPO 🚧
 
-<img src="./logo.svg">
+![Tailwind](/logo.svg)
